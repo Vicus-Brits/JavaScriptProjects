@@ -1,0 +1,10 @@
+html {
+    /* stops padding from creating scoll bar */
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* always stretch to full screen */
+    min-height: 100vh;
+}
